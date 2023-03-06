@@ -1,1 +1,1 @@
-# ECE-6960
+# ECE-6960 - Assignments and Project
